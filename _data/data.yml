@@ -265,7 +265,7 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
-  - title: 15. The untapped potential of camera traps for farmland biodiversity monitoring: current practice and outstanding agroecological questions.
+  - title: "15. The untapped potential of camera traps for farmland biodiversity monitoring: current practice and outstanding agroecological questions."
     link: "https://doi.org/10.1002/rse2.426"
     authors: Roilo, S., Hofmeester, T. R., <strong>Frauendorf, M.</strong>, Widén, A. and Cord, A. F. 
     conference: Remote Sensing in Ecology and Conservation, 2025.
