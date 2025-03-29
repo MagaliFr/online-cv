@@ -260,10 +260,32 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
-  - title: "The influence of environmental and physiological factors on the litter size of wild boar (Sus scrofa) in an agriculture dominated area in Germany."
+  - title: "The influence of environmental and physiological factors on the litter size of wild boar (<em>Sus scrofa</em>) in an agriculture dominated area in Germany."
     link: "https://doi.org/10.1016/j.scitotenv.2015.09.128"
     authors: <strong>Frauendorf, M.</strong>, Gethoffer, F., Siebert, U., & Keuling, O.
     conference:  Science of the Total Environment, 541, 877–882, <strong>2016</strong>.
+
+  - title: "Disturbance increases high tide travel distance of a roosting shorebird but only marginally affects daily energy expenditure."
+    link: "https://doi.org/10.1186/s40657-019-0171-8"
+    authors: Linssen, H., van de Pol, M., Allen, A. M., Jans, M., Ens, B. J., Krijgsveld, K. L., <strong>Frauendorf, M.</strong>, & van der Kolk, H.-J.
+    conference:  Avian Research, 10(31), 1-11, <strong>2019</strong>.
+
+  - title: "Colour-ring wear and loss effects in citizen science mark-resighting studies."
+    link: "https://doi.org/10.1186/s40657-019-0151-z"
+    authors: Allen, A. M., Ens, B. J., van de Pol, M., van der Jeugd, H., <strong>Frauendorf, M.</strong>, van der Kolk, H.-J., Oosterbeek, K., Nienhuis, J., & Jongejans, E.
+    conference:  Avian Research, 10(11), 1-15, <strong>2019</strong>.
+
+  - title: "Seasonal survival and migratory connectivity of the Eurasian Oystercatcher revealed by citizen science."
+    link: "https://doi.org/10.1093/auk/uky001"
+    authors: Allen, A. M., Ens, B. J., van de Pol, M., van der Jeugd, H., <strong>Frauendorf, M.</strong>, Oosterbeek, K., & Jongejans, E.
+    conference:  Auk, 136(1), 1-17, <strong>2019</strong>.
+
+  - title: "Shorebird feeding specialists differ in how environmental conditions alter their foraging time."
+    link: "https://doi.org/10.1093/beheco/arz189"
+    authors: van der Kolk, H.-J., Ens, B. J., Oosterbeek, K., Bouten, W., Allen, A. M., Frauendorf, M., Lameris, T. K., Oosterbeek, T., Deuzeman, S., de Vries, K., Jongejans, E., & van de Pol, M. 
+    conference:  Behavioral Ecology, 31(2), 371–382, <strong>2020</strong>.
+
+      
 
   - title: "The untapped potential of camera traps for farmland biodiversity monitoring: current practice and outstanding agroecological questions."
     link: "https://doi.org/10.1002/rse2.426"
