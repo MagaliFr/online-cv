@@ -79,15 +79,8 @@ education:
     university: Department of Animal Ecology, Netherlands Institute of Ecology, Wageningen (NL)
     time: 2016 - 2021
     details: |
-      Master of Science in Forest and Nature Conservation, Wageningen University, Wageningen (NL) (cum laude)
-      Bachelor of Applied Science in Wildlife Management, University of Applied Sciences, Leeuwarden (NL)
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Causes of spatiotemporal variation in reproductive performance of Eurasian oystercatchers in a human-dominated landscape
+      https://zenodo.org/record/6837142
   - degree: Master of Science in Forest and Nature Conservation
     university: Wageningen University, Wageningen (NL)
     time: 2014 - 2016
@@ -144,24 +137,38 @@ experiences:
   - role: Research assistant 
     time: 2016
     company: Institute for Terrestrial and Aquatic Wildlife Research, University of Veterinary Medicine Hannover, GER
+    details: |
+        “Space use of red deer in Lower Saxony” and “Investigations on the influence of hunting on geese and crop damages”
   - role: Intern (master) 
     time: 2015 - 2016
     company: Wageningen Environmental Research, Wageningen, NL
+    details: |
+        “Investigating the effectiveness of different non-invasive methods (trap cam, video surveillance and track pads) to encounter the usage of crossing structures by ungulates in the National Park Hoge Veluwe.”
   - role: Thesis (master) 
     time: 2015
     company: Wageningen Environmental Research, Wageningen, NL
+    details: |
+        “The influence of environmental factors, physiological factors and hunting on the reproductive success of wild boar in Germany”
   - role: Research assistant 
     time: 2013
     company: Institute for Terrestrial and Aquatic Wildlife Research, University of Veterinary Medicine Hannover, GER
+    details: |
+        “Wild boar management in Lower Saxony”
   - role: Thesis (bachelor) 
     time: 2012
     company: Norwegian Institute for Nature Research (NINA), NO
+    details: |
+        “Microhabitat characteristics of Eurasian Lynx (Lynx lynx) kill and rest sites in northern Norway“
   - role: Intern (bachelor) 
     time: 2011 - 2012
     company: Harz National Park (Lynx project), GER
+    details: |
+        “Pilot study on the microhabitat selection of Eurasian lynx (Lynx lynx) concerning hunting sites in the Harz National Park, Germany“
   - role: Intern (bachelor) 
     time: 2010
     company: Research and education centre „La Tirimbina“, Costa Rica
+    details: |
+        “Density estimation of Costa Rican wet tropical forest bird species“
 
 certifications:
   title: Certifications
