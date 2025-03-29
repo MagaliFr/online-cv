@@ -116,43 +116,64 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Researcher
+    time: 2025 - Present
+    company:  Department of Wildlife, Fish and Environmental Studies, Swedish University of Agricultural Sciences, SE
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  #    Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #    Cum sociis natoque penatibus et magnis dis parturient montes,
+  #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #    pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+  #    enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+  #    error sit voluptatem accusantium doloremque laudantium, totam rem
+  #    aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+  #    architecto beatae vitae dicta sunt explicabo.
+  #      - Bullet point
+  #      - Bullet point
+  - role: Postdoctoral researcher
+    time: 2023 - 2025
+    company:  Department of Wildlife, Fish and Environmental Studies, Swedish University of Agricultural Sciences, SE
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  #    Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #    Cum sociis natoque penatibus et magnis dis parturient montes,
+  #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #    pellentesque eu, pretium quis, sem.
+  #      - Bullet point
+  #      - Bullet point
+  - role: Ecological researcher 
+    time: 2022 - 2023
+    company: Altenburg & Wymenga ecological research, NL
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  #    Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #    Cum sociis natoque penatibus et magnis dis parturient montes,
+  #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #    pellentesque eu, pretium quis, sem.
+  #      - Bullet point
+  #      - Bullet point
+  - role: Research assistant 
+    time: 2016
+    company: Institute for Terrestrial and Aquatic Wildlife Research, University of Veterinary Medicine Hannover, GER
+  - role: Intern (master) 
+    time: 2015 - 2016
+    company: Wageningen Environmental Research, Wageningen, NL
+  - role: Thesis (master) 
+    time: 2015
+    company: Wageningen Environmental Research, Wageningen, NL
+  - role: Research assistant 
+    time: 2013
+    company: Institute for Terrestrial and Aquatic Wildlife Research, University of Veterinary Medicine Hannover, GER
+  - role: Thesis (bachelor) 
+    time: 2012
+    company: Norwegian Institute for Nature Research (NINA), NO
+  - role: Intern (bachelor) 
+    time: 2011 - 2012
+    company: Harz National Park (Lynx project), GER
+  - role: Intern (bachelor) 
+    time: 2010
+    company: Research and education centre „La Tirimbina“, Costa Rica
 
 certifications:
   title: Certifications
