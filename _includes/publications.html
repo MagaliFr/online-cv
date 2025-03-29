@@ -17,7 +17,7 @@
   {% endif %}
 
   <ol class="resume-list" reversed>
-    {% for publication in publications.papers %}
+    {% for publication in publications.papers reversed  %}
       <li>
         {% if publication.link %}
           <strong><a href="{{ publication.link }}">{{ publication.title }}</a></strong>
