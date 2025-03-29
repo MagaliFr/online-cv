@@ -260,21 +260,16 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+  - title: "The influence of environmental and physiological factors on the litter size of wild boar (Sus scrofa) in an agriculture dominated area in Germany."
+    link: "https://doi.org/10.1016/j.scitotenv.2015.09.128"
+    authors: <strong>Frauendorf, M.</strong>, Gethoffer, F., Siebert, U., & Keuling, O.
+    conference:  Science of the Total Environment, 541, 877–882, <strong>2016</strong>.
+
   - title: "The untapped potential of camera traps for farmland biodiversity monitoring: current practice and outstanding agroecological questions."
     link: "https://doi.org/10.1002/rse2.426"
     authors: Roilo, S., Hofmeester, T. R., <strong>Frauendorf, M.</strong>, Widén, A. and Cord, A. F. 
-    conference: Remote Sensing in Ecology and Conservation, 2025.
+    conference: Remote Sensing in Ecology and Conservation, <strong>2025</strong>.
     
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
 recommendations:
   title: Recommendations
   list:
