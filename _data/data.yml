@@ -10,55 +10,61 @@ sidebar:
   # Profile information
   name: Magali Frauendorf
   tagline: Researcher
-  avatar: _J3A1557.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: _J3A1557.JPG #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  email: magalifrauendorf@gmail.com
+  phone: +46 76 144 49 59
+  timezone: Central European Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: German, French
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  linkedin: www.linkedin.com/in/magali-frauendorf-80a696a8
+  #xing: alandoe
+  github: MagaliFr
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  bluesky: '@mfrauendorf.bsky.social' # Specify your full Bluesky handle
+  twitter: '@mfrauendorf'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Native
+    - idiom: German
+      level: Fluent (native)
 
     - idiom: French
-      level: Professional
+      level: Conversational (native) 
+
+    - idiom: English
+      level: Fluent
+
+    - idiom: Dutch
+      level: Fluent 
+
+    - idiom: Swedish
+      level: Basic
 
     - idiom: Spanish
-      level: Professional
+      level: Basic   
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Outdoor activities (hiking, skiing, birding)
       link:
 
 
-    - item: Snowboarding
+    - item: Horseback riding
       link:
 
-
-    - item: Cooking
-      link:
 
 
 career-profile:
