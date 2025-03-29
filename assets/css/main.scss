@@ -16,3 +16,8 @@ $sidebar-order: 2;
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+.resume-list {
+    list-style-type: decimal;
+    margin-left: 1.2em;
+  }
