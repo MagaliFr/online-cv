@@ -70,19 +70,19 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am an ecologist with a background in reproduction and quantitative ecology and a strong interest in movement, 
+    population and conservation ecology. My research is characterized by combining citizen science, advanced 
+    statistical methods and different monitoring techniques/technology to study large-scale ecological 
+    relationships.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: PhD in Ecology
+    university: Department of Animal Ecology, Netherlands Institute of Ecology, Wageningen (NL)
+    time: 2016 - 2021
     details: |
+      Master of Science in Forest and Nature Conservation, Wageningen University, Wageningen (NL) (cum laude)
+      Bachelor of Applied Science in Wildlife Management, University of Applied Sciences, Leeuwarden (NL)
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -90,9 +90,22 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Master of Science in Forest and Nature Conservation
+    university: Wageningen University, Wageningen (NL)
+    time: 2014 - 2016
+    details: |
+      Master of Science in Forest and Nature Conservation, Wageningen University, Wageningen (NL) (cum laude)
+      Bachelor of Applied Science in Wildlife Management, University of Applied Sciences, Leeuwarden (NL)
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: Bachelor of Applied Science in Wildlife Management
+    university: University of Applied Sciences, Van Hall Larenstein, Leeuwarden (NL)
+    time: 2008 - 2012
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
