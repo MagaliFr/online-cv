@@ -58,9 +58,8 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Outdoor activities (hiking, skiing, birding)
+    - item: Outdoor activities (hiking, cross country skiing, birding)
       link:
-
 
     - item: Horseback riding
       link:
@@ -70,10 +69,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am an ecologist with a background in reproduction and quantitative ecology and a strong interest in movement, 
-    population and conservation ecology. My research is characterized by combining citizen science, advanced 
-    statistical methods and different monitoring techniques/technology to study large-scale ecological 
-    relationships.
+    I am an ecologist with a background in reproduction and quantitative ecology and a strong interest in movement, population and conservation 
+    ecology. My research is characterized by combining citizen science, advanced statistical methods and different monitoring techniques/technology 
+    to study large-scale ecological relationships.
 education:
   title: Education
   info:
