@@ -282,10 +282,53 @@ publications:
 
   - title: "Shorebird feeding specialists differ in how environmental conditions alter their foraging time."
     link: "https://doi.org/10.1093/beheco/arz189"
-    authors: van der Kolk, H.-J., Ens, B. J., Oosterbeek, K., Bouten, W., Allen, A. M., Frauendorf, M., Lameris, T. K., Oosterbeek, T., Deuzeman, S., de Vries, K., Jongejans, E., & van de Pol, M. 
+    authors: van der Kolk, H.-J., Ens, B. J., Oosterbeek, K., Bouten, W., Allen, A. M., <strong>Frauendorf, M.</strong>, Lameris, T. K., Oosterbeek, T., Deuzeman, S., de Vries, K., Jongejans, E., & van de Pol, M. 
     conference:  Behavioral Ecology, 31(2), 371–382, <strong>2020</strong>.
 
-      
+  - title: "Cumulative energetic costs of military aircraft, recreational and natural disturbance in roosting shorebirds."
+    link: "https://doi.org/10.1111/acv.12546"
+    authors: van der Kolk, H.-J., Krijgsveld, K. L., Linssen, H., Diertens, R., Dolman, D., Jans, M., Frauendorf, M., Ens, B. J., & van de Pol, M. 
+    conference:  Animal Conservation, 23(4), 359–372, <strong>2020</strong>.
+
+  - title: "Why time-limited individuals can make populations more vulnerable to disturbance."
+    link: "https://doi.org/10.1111/oik.08031"
+    authors: van der Kolk, H.-J., Ens, B. J., <strong>Frauendorf, M.</strong>, Jongejans, E., Oosterbeek, K., Bouten, W., & van de Pol, M. 
+    conference:  Oikos, 130(4), 637–651, <strong>2021</strong>.
+
+  - title: "Conceptualizing and quantifying body condition using structural equation modelling: A user guide."
+    link: "https://doi.org/10.1111/1365-2656.13578"
+    authors: <strong>Frauendorf, M.</strong>, Allen, A. M., Verhulst, S., Jongejans, E., Ens, B. J., van der Kolk, H.-J., de Kroon, H., Nienhuis, J., & van de Pol, M.
+    conference:  Journal of Animal Ecology, 90(11), 2478–2496, <strong>2021</strong>.
+
+  - title: "State-dependent environmental sensitivity of reproductive success and survival in a shorebird."
+    link: "https://doi.org/10.1111/ibi.13038"
+    authors: van Irsel, J., <strong>Frauendorf, M.</strong>, Ens, B. J., van de Pol, M., Troost, K., Oosterbeek, K., de Kroon, H., Jongejans, E., & Allen, A. M.
+    conference:   Ibis, 164(3), 692–710, <strong>2022</strong>.
+
+  - title: "The demographic causes of population change vary across four decades in a long-lived shorebird."
+    link: "https://doi.org/10.1002/ecy.3615"
+    authors: Allen, A. M., Jongejans, E., van de Pol, M., Ens, B. J., <strong>Frauendorf, M.</strong>, van der Sluijs, M., & de Kroon, H.
+    conference:   Ecology, 103(4), e3615, <strong>2022</strong>.
+
+  - title: "Love thy neighbour?—Spatial variation in density dependence of nest survival in relation to predator community."
+    link: "https://doi.org/10.1111/ddi.13457"
+    authors: <strong>Frauendorf, M.</strong>, Allen, A. M., Jongejans, E., Ens, B. J., Teunissen, W., Kampichler, C., van Turnhout, C. A. M., Bailey, L. D., de Kroon, H., Cremer, J., Kleyheeg, E., Nienhuis, J., & van de Pol, M. 
+    conference: Diversity and Distributions, 28(4), 624–635, <strong>2022</strong>.
+
+  - title: "GPS tracking data of Eurasian oystercatchers (Haematopus ostralegus) from the Netherlands and Belgium."
+    link: "https://doi.org/10.3897/zookeys.1123.90623"
+    authors: van der Kolk, H.-J., Desmet, P., Oosterbeek, K., Allen, A. M., Baptist, M. J., Bom,  R. A., Davidson, S. C., de Jong, J., de Kroon, H., Dijkstra, B., Dillerop, R., Dokter, A. M., <strong>Frauendorf, M.</strong>, Milotić, T., Rakhimberdiev, E., Shamoun-Baranes, J., Spanoghe, G., van de Pol, M., Van Ryckegem, G., Vanoverbeke, J., Jongejans, E.& Ens, B. J.
+    conference: ZooKeys, 1123, 31-45, <strong>2022</strong>.
+
+  - title: "Is the settlement of a winter territory in the European Robin Erithacus rubecula triggered by the arrival of conspecific migrants?"
+    link: "https://doi.org/10.1007/s10336-024-02150-7"
+    authors: Oosterveld, E. B., & <strong>Frauendorf, M.</strong>
+    conference: Journal of Ornithology,  165, 563–568, <strong>2024</strong>.   
+
+  - title: "Sea-level rise causes shorebird population collapse before habitats drown."
+    link: "https://doi.org/10.1038/s41558-024-02051-w"
+    authors: van de Pol., M., Bailey, L. D., <strong>Frauendorf, M.</strong>, Allen, A. M., van der Sluijs, M., Hijner, N., Brouwer, L., de Kroon, H., Jongejans, E., Ens, B. J.
+    conference: Nature Climate Change,  14, 839-844, <strong>2024</strong>.
 
   - title: "The untapped potential of camera traps for farmland biodiversity monitoring: current practice and outstanding agroecological questions."
     link: "https://doi.org/10.1002/rse2.426"
